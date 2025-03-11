@@ -19,7 +19,7 @@ pip install pandas numpy scikit-learn nltk streamlit wordcloud
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sms-spam-classifier.git
+git clone https://github.com/vikshittindwani/sms-spam
 cd sms-spam-classifier
 ```
 
