@@ -51,8 +51,7 @@ The dataset used is the **# SMS Spam Collection** dataset, containing labeled SM
 
 ## Screenshots
 ### NoteBook
-![WordCloud]("![image](https://github.com/user-attachments/assets/ba9c6f5a-c976-4c87-8607-cfaa013c2c0e)
-")
+(![image](https://github.com/user-attachments/assets/70312f98-491e-4ea6-a2df-997b8de1557b)
 
 
 
