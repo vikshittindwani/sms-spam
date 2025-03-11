@@ -51,7 +51,10 @@ The dataset used is the **# SMS Spam Collection** dataset, containing labeled SM
 
 ## Screenshots
 ### NoteBook
-(![image](https://github.com/user-attachments/assets/70312f98-491e-4ea6-a2df-997b8de1557b)
+![image](https://github.com/user-attachments/assets/70312f98-491e-4ea6-a2df-997b8de1557b)
+### Streamlit app
+![image](https://github.com/user-attachments/assets/99481f02-5869-48fe-ae8d-1ad260bdfc1e)
+
 
 
 
