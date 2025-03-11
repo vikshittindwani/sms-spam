@@ -50,7 +50,10 @@ sms-spam-classifier/
 The dataset used is the **# SMS Spam Collection** dataset, containing labeled SMS messages for spam detection.
 
 ## Screenshots
-_Add UI screenshots here to showcase the Streamlit interface._
+### NoteBook
+![WordCloud]("C:\Users\Owner\Downloads\Wordcloud.png")
+
+
 
 ## Future Enhancements
 - Improve classification with **# Deep Learning (LSTMs, Transformers)**.
